@@ -5,4 +5,4 @@ Este repositório guarda alguns exemplos de código que achei necessário fazer 
 ## Índice
 
 - Capítulo 3
-    - [Faça apenas uma coisa](/cap-3/ex-funcoes-devem-fazer-apenas-1-coisa.php)
+    - [Faça apenas uma coisa](cap-3/ex-funcoes-devem-fazer-apenas-1-coisa/HtmlUtil.php)
